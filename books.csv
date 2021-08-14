@@ -1,0 +1,988 @@
+Unnamed: 0,Author,Book Name,imagePaths
+0,Robert C. Martin,Clean Code,data/covers/0000001.jpg
+1,Shigeru Miyamoto,The Legend of Zelda,data/covers/0000002.jpg
+2,Steve Krug,"Don't Make Me Think, Revisited",data/covers/0000003.jpg
+3,Douglas R. Hofstadter,"Godel, Escher, Bach",data/covers/0000004.jpg
+4,Nick Bostrom,Superintelligence,data/covers/0000005.jpg
+5,Jon Duckett,"Web Design with HTML, CSS, JavaScript and jQuery Set",data/covers/0000006.jpg
+6,Gayle Laakmann McDowell,Cracking the Coding Interview,data/covers/0000007.jpg
+7,David Thorne,The Internet is a Playground,data/covers/0000008.jpg
+8,DanTDM,DanTDM: Trayaurus and the Enchanted Crystal,data/covers/0000009.jpg
+9,Max Tegmark,Life 3.0,data/covers/0000010.jpg
+10,Andrew Hodges,Alan Turing: The Enigma,data/covers/0000011.jpg
+11,Andrew Hunt,The Pragmatic Programmer,data/covers/0000012.jpg
+12,Cathy O'neil,Weapons of Math Destruction,data/covers/0000013.jpg
+13,Cal Newport,Digital Minimalism,data/covers/0000014.jpg
+14,Jon Duckett,HTML and CSS,data/covers/0000015.jpg
+15,Robert C. Martin,Clean Architecture,data/covers/0000016.jpg
+16,Erich Gamma,Design Patterns,data/covers/0000017.jpg
+17,Robert C. Martin,The Clean Coder,data/covers/0000018.jpg
+18,Blizzard,World Of Warcraft: Chronicle Volume 1,data/covers/0000019.jpg
+19,Aurelien Geron,Hands-On Machine Learning with Scikit-Learn and TensorFlow,data/covers/0000020.jpg
+20,Steve McConnell,Code Complete,data/covers/0000021.jpg
+21,Eric Freeman,Head First Design Patterns,data/covers/0000022.jpg
+22,Keith Ferrazzi,Never Eat Alone,data/covers/0000023.jpg
+23,Nicholas Carr,The Shallows,data/covers/0000024.jpg
+24,Andy Field,Discovering Statistics Using IBM SPSS Statistics,data/covers/0000025.jpg
+25,Martin Kleppmann,Designing Data-Intensive Applications,data/covers/0000026.jpg
+26,Julie Pallant,SPSS Survival Manual,data/covers/0000027.jpg
+27,Charles Petzold,Code,data/covers/0000028.jpg
+28,Douglas Crockford,JavaScript: The Good Parts,data/covers/0000029.jpg
+29,Al Sweigart,Automate The Boring Stuff With Python,data/covers/0000030.jpg
+30,Garrett Grolemund,R for Data Science,data/covers/0000031.jpg
+31,Blizzard Entertainment,World Of Warcraft Chronicle Volume 2,data/covers/0000032.jpg
+32,Frederick P. Brooks Jr.,The Mythical Man-Month,data/covers/0000033.jpg
+33,Brian Christian,Algorithms to Live By,data/covers/0000034.jpg
+34,Adam Lawrence,This is Service Design Doing,data/covers/0000035.jpg
+35,Seth Godin,All Marketers are Liars,data/covers/0000036.jpg
+36,Jason Schreier,"Blood, Sweat, and Pixels",data/covers/0000037.jpg
+37,Pedro Domingos,The Master Algorithm,data/covers/0000038.jpg
+38,Kathy Sierra,Head First Java,data/covers/0000039.jpg
+39,Yoshua Bengio,Deep Learning,data/covers/0000040.jpg
+40,Brian W. Kernighan,C Programming Language,data/covers/0000041.jpg
+41,Susan Weinschenk,100 Things Every Designer Needs to Know About People,data/covers/0000042.jpg
+42,Martin Fowler,Refactoring,data/covers/0000043.jpg
+43,Joshua Bloch,Effective Java,data/covers/0000044.jpg
+44,Mark Lutz,Python Pocket Reference,data/covers/0000045.jpg
+45,Marty Neumeier,The Brand Gap,data/covers/0000046.jpg
+46,Edward Snowden,Permanent Record,data/covers/0000047.jpg
+47,Gareth James,An Introduction to Statistical Learning,data/covers/0000048.jpg
+48,Jon Erickson,"Hacking: The Art Of Exploitation, 2nd Edition",data/covers/0000049.jpg
+49,Blizzard Entertainment,World Of Warcraft Chronicle Volume 3,data/covers/0000050.jpg
+50,Eric Matthes,Python Crash Course (2nd Edition),data/covers/0000051.jpg
+51,Andreas Antonopoulos,Mastering Bitcoin 2e,data/covers/0000052.jpg
+52,Foster Provost,Data Science for Business,data/covers/0000053.jpg
+53,Gary Vaynerchuk,Crushing It!,data/covers/0000054.jpg
+54,Aimee Song,"Capture Your Style:Transform Your Instagram Photos, Showcase Your",data/covers/0000055.jpg
+55,Eric Evans,Domain-Driven Design,data/covers/0000056.jpg
+56,Sam Newman,Building Microservices,data/covers/0000057.jpg
+57,Nicole Forsgren,Accelerate,data/covers/0000058.jpg
+58,Ash Maurya,Running Lean,data/covers/0000059.jpg
+59,Nintendo USA,"Legend Of Zelda, The: Art & Artifacts",data/covers/0000060.jpg
+60,Paul Davies,The Art of Horizon,data/covers/0000061.jpg
+61,Nancy Duarte,slide:ology,data/covers/0000062.jpg
+62,Ray Kurzweil,The Singularity is Near,data/covers/0000063.jpg
+63,Jeff Patton,User Story Mapping,data/covers/0000064.jpg
+64,Ryan Holiday,"Trust Me, I'm Lying",data/covers/0000065.jpg
+65,Judea Pearl,The Book of Why,data/covers/0000066.jpg
+66,Future Press,"Sekiro Shadows Die Twice, Official Game Guide",data/covers/0000067.jpg
+67,The Sidemen,Sidemen: The Book,data/covers/0000068.jpg
+68,CD Projekt Red,The World Of The Witcher,data/covers/0000069.jpg
+69,Angela Nagle,Kill All Normies,data/covers/0000070.jpg
+70,Scott Meyers,Effective Modern C++,data/covers/0000071.jpg
+71,Richard E. Williams,The Animator's Survival Kit,data/covers/0000072.jpg
+72,Kevin D. Mitnick,Ghost In The Wires,data/covers/0000073.jpg
+73,Wes McKinney,"Python for Data Analysis, 2e",data/covers/0000074.jpg
+74,Jeff Gothelf,"Lean UX, 2e",data/covers/0000075.jpg
+75,Julia Ross,The Mood Cure,data/covers/0000076.jpg
+76,David Airey,Logo Design Love,data/covers/0000077.jpg
+77,Casey Hudson,The Art Of The Mass Effect Universe,data/covers/0000078.jpg
+78,David Kushner,Masters Of Doom,data/covers/0000079.jpg
+79,Sue Johnson,Hold Me Tight,data/covers/0000080.jpg
+80,Luciano Ramalho,Fluent Python,data/covers/0000081.jpg
+81,Seth Stephens-davidowitz,Everybody Lies,data/covers/0000082.jpg
+82,Wizards RPG Team,Storm King's Thunder,data/covers/0000083.jpg
+83,Camille Fournier,The Manager`s Path,data/covers/0000084.jpg
+84,Kevin D. Mitnick,The Art of Deception,data/covers/0000085.jpg
+85,Wizards RPG Team,Tales from the Yawning Portal,data/covers/0000086.jpg
+86,Young Rewired State,"Get Coding! Learn HTML, CSS, and JavaScript and Build a Website, App, and Game",data/covers/0000087.jpg
+87,Trevor Hastie,The Elements of Statistical Learning,data/covers/0000088.jpg
+88,Kai-Fu Lee,AI Superpowers,data/covers/0000089.jpg
+89,Duncan Clark,Alibaba,data/covers/0000090.jpg
+90,Scott Kelby,"The Digital Photography Book, Part 3",data/covers/0000091.jpg
+91,Andy Field,Discovering Statistics Using R,data/covers/0000092.jpg
+92,Mark Lutz,Learning Python,data/covers/0000093.jpg
+93,Martin Ford,The Rise of the Robots,data/covers/0000094.jpg
+94,Stanley B. Lippman,C++ Primer,data/covers/0000095.jpg
+95,Nick Bostrom,Superintelligence,data/covers/0000096.jpg
+96,Zed A. Shaw,Learn Python 3 the Hard Way,data/covers/0000097.jpg
+97,Lyssa Adkins,Coaching Agile Teams,data/covers/0000098.jpg
+98,Joshua Bloch,Effective Java,data/covers/0000099.jpg
+99,Alan Donovan,The Go Programming Language,data/covers/0000100.jpg
+100,Michael Feathers,Working Effectively with Legacy Code,data/covers/0000101.jpg
+101,Peter F. Drucker,"HBR's 10 Must Reads on Managing Yourself (with bonus article ""How Will You Measure Your Life?"" by Clayton M. Christensen)",data/covers/0000102.jpg
+102,Tony Northrup,Tony Northrup's DSLR Book,data/covers/0000103.jpg
+103,Naughty Dog Studios,The Art Of The Last Of Us,data/covers/0000104.jpg
+104,Martin Fowler,Patterns of Enterprise Application Architecture,data/covers/0000105.jpg
+105,Jason Briggs,Python For Kids,data/covers/0000106.jpg
+106,Martin Fowler,Refactoring,data/covers/0000107.jpg
+107,Harold Abelson,Structure and Interpretation of Computer Programs,data/covers/0000108.jpg
+108,Jez Humble,Continuous Delivery,data/covers/0000109.jpg
+109,Steve Krug,Rocket Surgery Made Easy,data/covers/0000110.jpg
+110,Scott Kelby,"The Digital Photography Book, Part 2",data/covers/0000111.jpg
+111,Yoshihito Isogawa,The Lego Technic Idea Book: Simple Machines,data/covers/0000112.jpg
+112,Harvard Business Review,"HBR's 10 Must Reads on Strategy (including featured article ""What Is Strategy?"" by Michael E. Porter)",data/covers/0000113.jpg
+113,Harvard Business Review,"HBR's 10 Must Reads on Leadership (with featured article ""What Makes an Effective Executive,"" by Peter F. Drucker)",data/covers/0000114.jpg
+114,Nintendo,The Legend Of Zelda Encyclopedia,data/covers/0000115.jpg
+115,Jeb Blount,Fanatical Prospecting,data/covers/0000116.jpg
+116,Thomas H. Cormen,Introduction to Algorithms,data/covers/0000117.jpg
+117,Don Tapscott,Blockchain Revolution,data/covers/0000118.jpg
+118,Andrew Hodges,Alan Turing: The Enigma,data/covers/0000119.jpg
+119,Scott Meyers,Effective C++,data/covers/0000120.jpg
+120,Ellen Notbohm,Ten Things Every Child with Autism Wishes You Knew,data/covers/0000121.jpg
+121,Tom DeMarco,Peopleware,data/covers/0000122.jpg
+122,Dafydd Stuttard,The Web Application Hacker's Handbook,data/covers/0000123.jpg
+123,Mojang AB,Minecraft Survival Sticker Book,data/covers/0000124.jpg
+124,Jake Vanderplas,Python Data Science Handbook,data/covers/0000125.jpg
+125,Betsy Beyer,Site Reliability Engineering,data/covers/0000126.jpg
+126,James Lovelock,Novacene,data/covers/0000127.jpg
+127,Kent Beck,Test Driven Development,data/covers/0000128.jpg
+128,Tom Nichols,The Death of Expertise,data/covers/0000129.jpg
+129,Carol Vorderman,Computer Coding Games for Kids,data/covers/0000130.jpg
+130,Faith Erin Hicks,The Last Of Us: American Dreams,data/covers/0000131.jpg
+131,Andreas M Antonopoulos,The Internet of Money,data/covers/0000132.jpg
+132,Walt Stanchfield,Drawn to Life: 20 Golden Years of Disney Master Classes,data/covers/0000133.jpg
+133,Walter Isaacson,Innovators,data/covers/0000134.jpg
+134,Jon Duckett,JavaScript and JQuery,data/covers/0000135.jpg
+135,Sam Harris,Letter to a Christian Nation,data/covers/0000136.jpg
+136,Scott Kelby,"The Digital Photography Book, Part 4",data/covers/0000137.jpg
+137,Laurens Valk,The Lego Mindstorms Ev3 Discovery Book,data/covers/0000138.jpg
+138,Bjarne Stroustrup,The C++ Programming Language,data/covers/0000139.jpg
+139,Christopher M. Bishop,Pattern Recognition and Machine Learning,data/covers/0000140.jpg
+140,Daniel Goleman,"HBR's 10 Must Reads on Emotional Intelligence (with featured article ""What Makes a Leader?"" by Daniel Goleman)(HBR's 10 Must Reads)",data/covers/0000141.jpg
+141,Duncan Clark,Alibaba,data/covers/0000142.jpg
+142,James Kalbach,Mapping Experiences,data/covers/0000143.jpg
+143,Stuart Russell,"Artificial Intelligence: A Modern Approach, Global Edition",data/covers/0000144.jpg
+144,Jenny Odell,How To Do Nothing,data/covers/0000145.jpg
+145,Erik Brynjolfsson,The Second Machine Age,data/covers/0000146.jpg
+146,Michael Dawson,"Python Programming for the Absolute Beginner, Third Edition",data/covers/0000147.jpg
+147,Amid Amidi,Art of Pixar: 25th Anniv,data/covers/0000148.jpg
+148,Mary Aiken,The Cyber Effect,data/covers/0000149.jpg
+149,Edward Snowden,Permanent Record,data/covers/0000150.jpg
+150,Jez Humble,Lean Enterprise,data/covers/0000151.jpg
+151,Mike Rohde,The Sketchnote Handbook,data/covers/0000152.jpg
+152,Jaron Lanier,Ten Arguments For Deleting Your Social Media Accounts Right Now,data/covers/0000153.jpg
+153,Nigel Bennett,Managing successful projects with PRINCE2,data/covers/0000154.jpg
+154,Peter Bruce,Practical Statistics for Data Scientists,data/covers/0000155.jpg
+155,Francois Chollet,Deep Learning with Python,data/covers/0000156.jpg
+156,Adobe Creative Team,Adobe Photoshop CS6 Classroom in a Book,data/covers/0000157.jpg
+157,Marty Neumeier,ZAG,data/covers/0000158.jpg
+158,Harvard Business Review,"HBR's 10 Must Reads on Change Management (including featured article ""Leading Change,"" by John P. Kotter)",data/covers/0000159.jpg
+159,Chelsea Monroe-cassel,The Elder Scrolls: The Official Cookbook,data/covers/0000160.jpg
+160,John Kay,The Long and the Short of It (International edition),data/covers/0000161.jpg
+161,Christie Golden,World of Warcraft: Thrall: Twilight of the Aspects,data/covers/0000162.jpg
+162,Howard Mittelmark,How NOT to Write a Novel,data/covers/0000163.jpg
+163,Kenneth S. Rubin,Essential Scrum,data/covers/0000164.jpg
+164,Wladston Ferreira Filho,Computer Science Distilled,data/covers/0000165.jpg
+165,Donald E. Knuth,"The Art of Computer Programming, Volumes 1-4A Boxed Set",data/covers/0000166.jpg
+166,Kyle Simpson,You Don't Know JS - Up & Going,data/covers/0000167.jpg
+167,Zed A. Shaw,Learn Python the Hard Way,data/covers/0000168.jpg
+168,Sarah Guido,Introduction to Machine Learning with Python,data/covers/0000169.jpg
+169,Bioware,The Art Of Dragon Age: Inquisition,data/covers/0000170.jpg
+170,Hannah Fry,Hello World,data/covers/0000171.jpg
+171,James Gleick,The Information,data/covers/0000172.jpg
+172,David Flanagan,JavaScript: The Definitive Guide,data/covers/0000173.jpg
+173,Sony Computer Entertainment,The Art Of God Of War,data/covers/0000174.jpg
+174,Eric Topol,Deep Medicine,data/covers/0000175.jpg
+175,Cliff Stoll,The Cuckoo's Egg,data/covers/0000176.jpg
+176,George Berkowski,How to Build a Billion Dollar App,data/covers/0000177.jpg
+177,Bryan Peterson,Understanding Close-Up Photography,data/covers/0000178.jpg
+178,Blizzard Entertainment,Diablo III: Book of Tyrael,data/covers/0000179.jpg
+179,Yoshihito Isogawa,The Lego Mindstorms Ev3 Idea Book,data/covers/0000180.jpg
+180,Brian Christian,Algorithms to Live by,data/covers/0000181.jpg
+181,Mike Cohn,User Stories Applied,data/covers/0000182.jpg
+182,Wizards RPG Team,Dungeons & Dragons Guildmasters' Guide to Ravnica (D&d/Magic: The Gathering Adventure Book and Campaign Setting),data/covers/0000183.jpg
+183,Gregor Hohpe,Enterprise Integration Patterns,data/covers/0000184.jpg
+184,Nintendo,"Legend Of Zelda, The: Breath Of The Wild - Creating A Champion",data/covers/0000185.jpg
+185,Steve Freeman,"Growing Object-Oriented Software, Guided by Tests",data/covers/0000186.jpg
+186,Klaus Schwab,The Fourth Industrial Revolution,data/covers/0000187.jpg
+187,Frank M. Ahearn,How to Disappear,data/covers/0000188.jpg
+188,Brian F. Goetz,Java Concurrency in Practice,data/covers/0000189.jpg
+189,Stephen Few,Information Dashboard Design,data/covers/0000190.jpg
+190,Yoshihito Isogawa,The Lego Technic Idea Book: Fantastic Contraptions,data/covers/0000191.jpg
+191,Bjarne Stroustrup,Programming,data/covers/0000192.jpg
+192,Blizzard Entertainment,Overwatch: Anthology Volume 1,data/covers/0000193.jpg
+193,Blizzard Entertainment,The Art Of Overwatch,data/covers/0000194.jpg
+194,Karl Pilkington,The World of Karl Pilkington,data/covers/0000195.jpg
+195,Nintendo,"Legend Of Zelda, The: Breath Of The Wild - Creating A Champion Hero's Edition",data/covers/0000196.jpg
+196,Everett M. Rogers,"Diffusion of Innovations, 5th Edition",data/covers/0000197.jpg
+197,Justin Seitz,Black Hat Python,data/covers/0000198.jpg
+198,Richard E. Susskind,The Future of the Professions,data/covers/0000199.jpg
+199,Kyle Simpson,You Don't Know JS : Scope and Closures,data/covers/0000200.jpg
+200,Andrew Faulkner,Adobe Photoshop CC Classroom in a Book,data/covers/0000201.jpg
+201,Vaughn Vernon,Implementing Domain-Driven Design,data/covers/0000202.jpg
+202,Marijn Haverbeke,"Eloquent Javascript, 3rd Edition",data/covers/0000203.jpg
+203,Mike Cohn,Agile Estimating and Planning,data/covers/0000204.jpg
+204,Noam Nisan,The Elements of Computing Systems,data/covers/0000205.jpg
+205,Nykolai Aleksander,Beginners Guide to Digital Painting in Photoshop Vol 1,data/covers/0000206.jpg
+206,Sara Tasker,Hashtag Authentic,data/covers/0000207.jpg
+207,James Barrat,Our Final Invention,data/covers/0000208.jpg
+208,Ray Kurzweil,How to Create a Mind,data/covers/0000209.jpg
+209,Esther Derby,Agile Retrospectives - Making Good Teams Great,data/covers/0000210.jpg
+210,Catherine Price,How to Break Up With Your Phone,data/covers/0000211.jpg
+211,Tom Ang,How to Photograph Absolutely Everything,data/covers/0000212.jpg
+212,Roger Penrose,The Emperor's New Mind,data/covers/0000213.jpg
+213,Marco Russo,The Definitive Guide to DAX,data/covers/0000214.jpg
+214,Robert Nystrom,Game Programming Patterns,data/covers/0000215.jpg
+215,Alan Cooper,About Face,data/covers/0000216.jpg
+216,Gabriel Kirmaier,UX Bites - Small bites of information about User Experience Design,data/covers/0000217.jpg
+217,Aditya Y. Bhargava,Grokking Algorithms,data/covers/0000218.jpg
+218,Ben Forta,"SQL in 10 Minutes, Sams Teach Yourself",data/covers/0000219.jpg
+219,Yoshihito Isogawa,The Lego Technic Idea Book: Wheeled Wonders,data/covers/0000220.jpg
+220,Jane McGonigal,Reality is Broken,data/covers/0000221.jpg
+221,Andy Brunning,Why Does Asparagus Make Your Wee Smell?,data/covers/0000222.jpg
+222,A. Agrawal,Prediction Machines,data/covers/0000223.jpg
+223,Dr. Simon Singh,The Code Book,data/covers/0000224.jpg
+224,Yoshitaka Amano,The Sky: The Art of Final Fantasy,data/covers/0000225.jpg
+225,Kim Zetter,Countdown To Zero Day,data/covers/0000226.jpg
+226,Jurgen Appelo,Management 3.0,data/covers/0000227.jpg
+227,Bethesda Softworks,The Skyrim Library,data/covers/0000228.jpg
+228,David Watson,Cambridge IGCSE Computer Science,data/covers/0000229.jpg
+229,Jessie James Garrett,The Elements of User Experience,data/covers/0000230.jpg
+230,Joy Deangdeelert Cho,"Blog Inc Blogging for Passion, Profit, and to Create Community",data/covers/0000231.jpg
+231,Wizards RPG Team,"Dungeons & Dragons Waterdeep: Dungeon of the Mad Mage (Adventure Book, D&d Roleplaying Game)",data/covers/0000232.jpg
+232,John W. Foreman,Data Smart,data/covers/0000233.jpg
+233,Michael Hyatt,Platform,data/covers/0000234.jpg
+234,Jesse Schell,The Art of Game Design,data/covers/0000235.jpg
+235,Paul Scharre,Army of None,data/covers/0000236.jpg
+236,3dtotal Team,Beginner's Guide to Digital Painting: Characters,data/covers/0000237.jpg
+237,Tracy Kidder,The Soul of a New Machine,data/covers/0000238.jpg
+238,Avinash Kaushik,Web Analytics 2.0,data/covers/0000239.jpg
+239,Bioware,Dragon Age: The World Of Thedas Volume 2,data/covers/0000240.jpg
+240,Charles Petzold,The Annotated Turing,data/covers/0000241.jpg
+241,David Bawden,Introduction to Information Science,data/covers/0000242.jpg
+242,Paul Chiusano,Functional Programming in Scala,data/covers/0000243.jpg
+243,Mike Hutchinson,Gaslands,data/covers/0000244.jpg
+244,Tom Nichols,The Death of Expertise,data/covers/0000245.jpg
+245,Ubisoft Entertainment,Tom Clancy's The Division,data/covers/0000246.jpg
+246,Raph Koster,Theory of Fun for Game Design,data/covers/0000247.jpg
+247,Michael Freeman,The Photographer's Eye Remastered 10th Anniversary,data/covers/0000248.jpg
+248,David Beazley,Python Cookbook: No. 3,data/covers/0000249.jpg
+249,Nintendo,Super Mario Encyclopedia,data/covers/0000250.jpg
+250,Bethesda Softworks,The Art Of Fallout 4,data/covers/0000251.jpg
+251,Jacques Ellul,The Technological Society,data/covers/0000252.jpg
+252,Yoshihito Isogawa,The Lego Boost Idea Book,data/covers/0000253.jpg
+253,Virginia Eubanks,Automating Inequality,data/covers/0000254.jpg
+254,Henry Carroll,Read This if You Want to Be Instagram Famous,data/covers/0000255.jpg
+255,Gojko Adzic,Impact Mapping,data/covers/0000256.jpg
+256,Scott E. Page,The Model Thinker,data/covers/0000257.jpg
+257,C. Todd Lombardo,Product Roadmaps Relaunched,data/covers/0000258.jpg
+258,John Walkenbach,Excel 2016 Bible,data/covers/0000259.jpg
+259,Michael Sikorski,Practical Malware Analysis,data/covers/0000260.jpg
+260,Jean M. Twenge,iGen,data/covers/0000261.jpg
+261,Hannah Fry,Hello World,data/covers/0000262.jpg
+262,Future Press,Horizon Zero Dawn Collectors Edition Guide,data/covers/0000263.jpg
+263,Kyle Simpson,You Don't Know JS - ES6 & Beyond,data/covers/0000264.jpg
+264,Nikhil Abraham,Coding All-in-One For Dummies,data/covers/0000265.jpg
+265,Anthony Dunne,Speculative Everything,data/covers/0000266.jpg
+266,Scott Kelby,The Adobe Photoshop Lightroom CC Book for Digital Photographers,data/covers/0000267.jpg
+267,Kyle Simpson,You Don't Know JS - This & Object Prototypes,data/covers/0000268.jpg
+268,Steve S. Skiena,The Algorithm Design Manual,data/covers/0000269.jpg
+269,Martin Rees,On the Future,data/covers/0000270.jpg
+270,Scott Berkun,Making Things Happen,data/covers/0000271.jpg
+271,Jaime Levy,UX Strategy,data/covers/0000272.jpg
+272,Linda Sunshine,The Art of How to Train Your Dragon,data/covers/0000273.jpg
+273,Peter Kim,The Hacker Playbook 2,data/covers/0000274.jpg
+274,Stationery Office,ITIL foundation handbook,data/covers/0000275.jpg
+275,Marcos Lopez de Prado,Advances in Financial Machine Learning,data/covers/0000276.jpg
+276,David Airey,"Work for Money, Design for Love",data/covers/0000277.jpg
+277,Erik Brynjolfsson,The Second Machine Age,data/covers/0000278.jpg
+278,Evi Nemeth,UNIX and Linux System Administration Handbook,data/covers/0000279.jpg
+279,,Terraria: Hardmode Survival Handbook,data/covers/0000280.jpg
+280,Lisa Crispin,Agile Testing,data/covers/0000281.jpg
+281,Andy Rathbone,"Windows 7 For Dummies, Book + DVD Bundle",data/covers/0000282.jpg
+282,Brian Ward,"How Linux Works, 2nd Edition",data/covers/0000283.jpg
+283,Gayle Laakmann McDowell,Cracking the PM Interview,data/covers/0000284.jpg
+284,Kai Strittmatter,We have been harmonised,data/covers/0000285.jpg
+285,Walt Stanchfield,Drawn to Life: 20 Golden Years of Disney Master Classes,data/covers/0000286.jpg
+286,Chelsea Monroe-cassel,World of Warcraft: The Official Cookbook,data/covers/0000287.jpg
+287,Martin Vargic,Vargic's Miscellany of Curious Maps,data/covers/0000288.jpg
+288,James Cadle,Business Analysis,data/covers/0000289.jpg
+289,Kevin D. Mitnick,The Art of Intrusion,data/covers/0000290.jpg
+290,Greg Harvey,Excel 2016 All-in-One For Dummies,data/covers/0000291.jpg
+291,Richard S. Sutton,Reinforcement Learning,data/covers/0000292.jpg
+292,Amy Webb,The Big Nine,data/covers/0000293.jpg
+293,Dona M. Wong,The Wall Street Journal Guide to Information Graphics,data/covers/0000294.jpg
+294,Greg Harvey,Excel 2010 For Dummies,data/covers/0000295.jpg
+295,Tien Tzuo,Subscribed,data/covers/0000296.jpg
+296,Ulrik Pilegaard,Forbidden Lego,data/covers/0000297.jpg
+297,Rob Collie,Power Pivot and Power Bi,data/covers/0000298.jpg
+298,Wendell Odom,CCNA Routing and Switching 200-125 Official Cert Guide Library,data/covers/0000299.jpg
+299,John Stamper,AWS Certified Solutions Architect Official Study Guide,data/covers/0000300.jpg
+300,Scott Kelby,"Light It, Shoot It, Retouch It",data/covers/0000301.jpg
+301,Daniel Drescher,Blockchain Basics,data/covers/0000302.jpg
+302,Patrick McNeil,The Web Designer's Idea Book Volume 2,data/covers/0000303.jpg
+303,Roman Pichler,Agile Product Management with Scrum,data/covers/0000304.jpg
+304,Paul Graham,Hackers & Painters,data/covers/0000305.jpg
+305,Massimo Banzi,Getting Started with Arduino,data/covers/0000306.jpg
+306,Kevin P. Murphy,Machine Learning,data/covers/0000307.jpg
+307,Liz Gallacher,ITIL Foundation Exam Study Guide,data/covers/0000308.jpg
+308,David Pagano,The Lego Animation Book,data/covers/0000309.jpg
+309,Lawrence Levy,To Pixar and Beyond,data/covers/0000310.jpg
+310,V. Tethras,Dragon Age: Hard In Hightown,data/covers/0000311.jpg
+311,Paul Teetor,R Cookbook,data/covers/0000312.jpg
+312,Bryan Peterson,Bryan Peterson's Understanding Photography Field Guide,data/covers/0000313.jpg
+313,Hans Bacher,Dream Worlds: Production Design for Animation,data/covers/0000314.jpg
+314,Fritjof Capra,The Systems View of Life,data/covers/0000315.jpg
+315,Kyle Simpson,You Don't Know JS - Async & Performance,data/covers/0000316.jpg
+316,Jessica Livingston,Founders at Work,data/covers/0000317.jpg
+317,Ramin Zahed,"Art of DreamWorks Animation, The",data/covers/0000318.jpg
+318,Mike Cohn,Succeeding with Agile,data/covers/0000319.jpg
+319,3DTotal.com,Digital Painting Techniques,data/covers/0000320.jpg
+320,Eileen Ormsby,Darkest Web,data/covers/0000321.jpg
+321,Bruce Schneier,Data and Goliath,data/covers/0000322.jpg
+322,Tim Bogenn,Assassin's Creed Odyssey,data/covers/0000323.jpg
+323,Editors of Rock Point,Internet Password Logbook (Cognac Leatherette),data/covers/0000324.jpg
+324,Kyle Simpson,You Don't Know JS - Types & Grammar,data/covers/0000325.jpg
+325,Unknown,Terraria: The Ultimate Survival Handbook,data/covers/0000326.jpg
+326,George Gilder,Life After Google,data/covers/0000327.jpg
+327,Chris Burniske,Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond,data/covers/0000328.jpg
+328,Jeff Hawkins,On Intelligence,data/covers/0000329.jpg
+329,Peter Seibel,Coders at Work,data/covers/0000330.jpg
+330,Bruce A. Block,The Visual Story,data/covers/0000331.jpg
+331,Todd Lammle,CCNA Routing and Switching Complete Study Guide,data/covers/0000332.jpg
+332,Robert Sedgewick,Algorithms,data/covers/0000333.jpg
+333,DK,Digital Photography Complete Course,data/covers/0000334.jpg
+334,Bjarne Stroustrup,A Tour of C++,data/covers/0000335.jpg
+335,Julie Dirksen,Design for How People Learn,data/covers/0000336.jpg
+336,Wendell Odom,"CCENT/CCNA ICND1 100-105 Official Cert Guide, Academic Edition",data/covers/0000337.jpg
+337,David E. Sanger,The Perfect Weapon,data/covers/0000338.jpg
+338,The Lead Project,Super Scratch Programming Adventure (covers Version 2),data/covers/0000339.jpg
+339,Fred Benenson,How to Speak Emoji,data/covers/0000340.jpg
+340,Mike Rohde,The Sketchnote Handbook Video Edition,data/covers/0000341.jpg
+341,Maple Tree Books,"Terraria Tips, Hints, Cheats, Strategy and Walk-Through",data/covers/0000342.jpg
+342,Y. Shinkawa,Art Of Metal Gear Solid I-iv,data/covers/0000343.jpg
+343,Andrew Koenig,Accelerated C++,data/covers/0000344.jpg
+344,Dejan Sarka,Querying Microsoft (R) SQL Server (R) 2012,data/covers/0000345.jpg
+345,John Walkenbach,Excel 2010 Bible,data/covers/0000346.jpg
+346,Jon Skeet,"C# in Depth, 4E",data/covers/0000347.jpg
+347,Michael Margolis,Arduino Cookbook,data/covers/0000348.jpg
+348,Michael T. Nygard,Release It! Design and Deploy Production-Ready Software,data/covers/0000349.jpg
+349,Andrew McAfee,"Machine, Platform, Crowd",data/covers/0000350.jpg
+350,Daniel Susskind,The Future of the Professions,data/covers/0000351.jpg
+351,Future Press,Dark Souls Remastered Collector's Edition Guide,data/covers/0000352.jpg
+352,Ray Wilson,Make: Analog Synthesizers,data/covers/0000353.jpg
+353,Jeremy Heimans,New Power,data/covers/0000354.jpg
+354,Blake J Harris,Console Wars,data/covers/0000355.jpg
+355,Allen B. Downey,"Think Python, 2e",data/covers/0000356.jpg
+356,Michael Lopp,Managing Humans,data/covers/0000357.jpg
+357,Toni Turner,A Beginner's Guide To Day Trading Online 2nd Edition,data/covers/0000358.jpg
+358,Heather Smith,Xero For Dummies,data/covers/0000359.jpg
+359,Adam Christopher,Stranger Things: Darkness on the Edge of Town,data/covers/0000360.jpg
+360,Jaron Lanier,You Are Not A Gadget,data/covers/0000361.jpg
+361,Miran Lipovaca,Learn You A Haskell For Great Good,data/covers/0000362.jpg
+362,Randall Munroe,Thing Explainer,data/covers/0000363.jpg
+363,Steve Wexler,The Big Book of Dashboards,data/covers/0000364.jpg
+364,Jeanne Boyarsky,OCA / OCP Java SE 8 Programmer Certification Kit,data/covers/0000365.jpg
+365,From Software,Dark Souls II: Design Works,data/covers/0000366.jpg
+366,Andrie de Vries,R For Dummies,data/covers/0000367.jpg
+367,Michael Alexander,Excel 2016 Power Programming with VBA,data/covers/0000368.jpg
+368,Flint Dille,The Ultimate Guide To Video Game Writing And Design,data/covers/0000369.jpg
+369,Nicholas Kardaras,Glow Kids,data/covers/0000370.jpg
+370,Various,Dark Souls III: Design Works,data/covers/0000371.jpg
+371,3dtotal Publishing,Sketching from the Imagination: Dark Arts,data/covers/0000372.jpg
+372,John V. Guttag,Introduction to Computation and Programming Using Python,data/covers/0000373.jpg
+373,Bethesda Games,The Art Of Dishonored 2,data/covers/0000374.jpg
+374,Ginger Gorman,Troll Hunting,data/covers/0000375.jpg
+375,Andy Hunt,Pragmatic Thinking and Learning,data/covers/0000376.jpg
+376,Kristina Halvorson,Content Strategy for the Web,data/covers/0000377.jpg
+377,Bitmap Books,Super Famicom: The Box Art Collection,data/covers/0000378.jpg
+378,Kathy Sierra,SCJP Sun Certified Programmer for Java 6 Study Guide,data/covers/0000379.jpg
+379,Nicholas Mirzoeff,How to See the World,data/covers/0000380.jpg
+380,Bungie,The Art of Destiny,data/covers/0000381.jpg
+381,Scott Rogers,Level Up! The Guide to Great Video Game Design,data/covers/0000382.jpg
+382,,Pokemon Ultra Sun & Pokemon Ultra Moon: The Official Alola Region Strategy Guide,data/covers/0000383.jpg
+383,James Wyatt,The Art of Magic: The Gathering - Ravnica,data/covers/0000384.jpg
+384,Veechi Curtis,MYOB Software for Dummies - Australia,data/covers/0000385.jpg
+385,Stoyan Stefanov,JavaScript Patterns,data/covers/0000386.jpg
+386,David J. Anderson,Kanban,data/covers/0000387.jpg
+387,Simon Monk,"Programming Arduino: Getting Started with Sketches, Second Edition",data/covers/0000388.jpg
+388,Robert Love,Linux Kernel Development,data/covers/0000389.jpg
+389,Peter W. Singer,Cybersecurity and Cyberwar,data/covers/0000390.jpg
+390,Nikhil Abraham,Coding For Dummies,data/covers/0000391.jpg
+391,John Z. Sonmez,Soft Skills:The software developer's life manual,data/covers/0000392.jpg
+392,David Hinde,PRINCE2 Study Guide,data/covers/0000393.jpg
+393,Square Enix,Nier: Automata World Guide Volume 1,data/covers/0000394.jpg
+394,Ken Schwaber,Agile Project Management with Scrum,data/covers/0000395.jpg
+395,Martin Fowler,UML Distilled,data/covers/0000396.jpg
+396,Alberto Cairo,The Functional Art,data/covers/0000397.jpg
+397,Francis Glebas,Directing the Story,data/covers/0000398.jpg
+398,AXELOS,PRINCE2 Agile,data/covers/0000399.jpg
+399,Norman Matloff,The Art Of R Programming,data/covers/0000400.jpg
+400,Michael Janda,Burn Your Portfolio,data/covers/0000401.jpg
+401,Nathan Yau,Visualize This,data/covers/0000402.jpg
+402,Steven Kent,Ultimate History Video Games,data/covers/0000403.jpg
+403,Sarah Guthals,Modding Minecraft,data/covers/0000404.jpg
+404,Stefan G. Bucher,344 Questions,data/covers/0000405.jpg
+405,Georgia Weidman,Penetration Testing,data/covers/0000406.jpg
+406,Roberto Valenzuela,Picture Perfect Practice,data/covers/0000407.jpg
+407,Marijn Haverbeke,"Eloquent Javascript, 2nd Ed.",data/covers/0000408.jpg
+408,Brett Slatkin,Effective Python,data/covers/0000409.jpg
+409,David Evans,How to Write a Better Thesis,data/covers/0000410.jpg
+410,John Halas,Timing for Animation,data/covers/0000411.jpg
+411,Adobe Creative Team,Adobe InDesign CS6 Classroom in a Book,data/covers/0000412.jpg
+412,David Kushner,Masters of Doom,data/covers/0000413.jpg
+413,Paul Davies,The Art of Deus Ex Universe,data/covers/0000414.jpg
+414,Shon Harris,"CISSP All-in-One Exam Guide, Seventh Edition",data/covers/0000415.jpg
+415,Various,The Art Of Fire Emblem,data/covers/0000416.jpg
+416,Daniele Benedettelli,The Lego Mindstorms Ev3 Laboratory,data/covers/0000417.jpg
+417,Jeanne Boyarsky,OCA: Oracle Certified Associate Java SE 8 Programmer I Study Guide,data/covers/0000418.jpg
+418,Eric Freeman,Head First JavaScript Programming,data/covers/0000419.jpg
+419,Iain Macintosh,Football Manager Stole My Life,data/covers/0000420.jpg
+420,The Try Guys,The Hidden Power of F*cking Up,data/covers/0000421.jpg
+421,Ian McLean,Configuring Windows (R) 7 (Corrected Reprint Edition),data/covers/0000422.jpg
+422,Alan Cooper,The Inmates Are Running the Asylum,data/covers/0000423.jpg
+423,Martin Robinson,The Art of Dead Space,data/covers/0000424.jpg
+424,Russ Unger,A Project Guide to UX Design,data/covers/0000425.jpg
+425,Greg Harvey,Excel 2010 All-in-One For Dummies,data/covers/0000426.jpg
+426,Jamie Bartlett,The Dark Net,data/covers/0000427.jpg
+427,Jr.  David Kennedy,Metasploit,data/covers/0000428.jpg
+428,Steven Levy,Hackers,data/covers/0000429.jpg
+429,Mark Lutz,Programming Python,data/covers/0000430.jpg
+430,Adrienne Kress,Dreams Come to Life,data/covers/0000431.jpg
+431,Piggyback,Red Dead Redemption 2,data/covers/0000432.jpg
+432,Andreas M Antonopoulos,The Internet of Money Volume Two,data/covers/0000433.jpg
+433,Christian F. Nissen,Passing your ITIL foundation exam,data/covers/0000434.jpg
+434,Scott Kelby,The Best of The Digital Photography Book Series,data/covers/0000435.jpg
+435,Andrew Hodges,Alan Turing: The Enigma,data/covers/0000436.jpg
+436,Kent Beck,Extreme Programming Explained,data/covers/0000437.jpg
+437,Peter Pauper Press,Internet Address Password Log Black,data/covers/0000438.jpg
+438,Henry S. Warren,Hacker's Delight,data/covers/0000439.jpg
+439,,The Pokemon Sun & Pokemon Moon,data/covers/0000440.jpg
+440,Jeff Potter,"Cooking for Geeks, 2e",data/covers/0000441.jpg
+441,Bjarne Stroustrup,The C++ Programming Language,data/covers/0000442.jpg
+442,Laurens Valk,The Lego Mindstorms Nxt 2.0 Discovery Book,data/covers/0000443.jpg
+443,Bethesda Softworks,The Elder Scrolls V - The Skyrim Library,data/covers/0000444.jpg
+444,Len Bass,Software Architecture in Practice,data/covers/0000445.jpg
+445,Donald W. Jones,"Learn Windows PowerShell in a Month of Lunches, Third Edition",data/covers/0000446.jpg
+446,Ben Phillips Media Limited,Sorry Bro!,data/covers/0000447.jpg
+447,Damien Kuhn,The Fortnite Guide to Staying Alive,data/covers/0000448.jpg
+448,The Pokemon Company International Inc,The Essential Pokemon Book of Joy,data/covers/0000449.jpg
+449,,Terraria: Crafting and Construction Handbook,data/covers/0000450.jpg
+450,Elisabeth Robson,Head First HTML and CSS,data/covers/0000451.jpg
+451,Adobe Creative Team,Adobe Illustrator CS5 Classroom in a Book,data/covers/0000452.jpg
+452,Toby Segaran,Programming Collective Intelligence,data/covers/0000453.jpg
+453,Matt Forbeck,Life is Strange,data/covers/0000454.jpg
+454,Steven Levy,In The Plex,data/covers/0000455.jpg
+455,Michael Kerrisk,The Linux Programming Interface,data/covers/0000456.jpg
+456,Majed Marji,Learn To Program With Scratch,data/covers/0000457.jpg
+457,Perry Marshall,Ultimate Guide to Google AdWords,data/covers/0000458.jpg
+458,Greg Perry,C Programming Absolute Beginner's Guide,data/covers/0000459.jpg
+459,Stef Maruch,Python For Dummies,data/covers/0000460.jpg
+460,Ralph Kimball,The Data Warehouse Toolkit,data/covers/0000461.jpg
+461,Office of Government Commerce,Passing the PRINCE2 Examinations 2009,data/covers/0000462.jpg
+462,Jon Bentley,Programming Pearls,data/covers/0000463.jpg
+463,Jeremy Blum,Exploring Arduino,data/covers/0000464.jpg
+464,Sebastian Raschka,Python Machine Learning -,data/covers/0000465.jpg
+465,John Walkenbach,Excel 2013 Bible,data/covers/0000466.jpg
+466,David Jagneaux,The Ultimate Roblox Book: An Unofficial Guide,data/covers/0000467.jpg
+467,Kevin D. Mitnick,The Art of Invisibility,data/covers/0000468.jpg
+468,Carrie Anton,Smart Girls GD Digital World,data/covers/0000469.jpg
+469,Patrick Engebretson,The Basics of Hacking and Penetration Testing,data/covers/0000470.jpg
+470,Craig Richardson,Learn To Program With Minecraft,data/covers/0000471.jpg
+471,Julie Pallant,SPSS Survival Manual,data/covers/0000472.jpg
+472,Jonathan Rasmusson,The Agile Samurai,data/covers/0000473.jpg
+473,William Mougayar,The Business Blockchain,data/covers/0000474.jpg
+474,Tom Greever,Articulating Design Decisions,data/covers/0000475.jpg
+475,Alice Finch,The Lego Architecture Ideas Book,data/covers/0000476.jpg
+476,James Kurose,"Computer Networking: A Top-Down Approach, Global Edition",data/covers/0000477.jpg
+477,Adam Alter,Irresistible,data/covers/0000478.jpg
+478,John Walkenbach,Excel 2013 Power Programming with VBA,data/covers/0000479.jpg
+479,Ksi,KSI: I Am a Bellend,data/covers/0000480.jpg
+480,Fred C. Piper,Cryptography: A Very Short Introduction,data/covers/0000481.jpg
+481,Michael A. Nielsen,Quantum Computation and Quantum Information,data/covers/0000482.jpg
+482,Alberto Cairo,The Truthful Art,data/covers/0000483.jpg
+483,David Kirkpatrick,The Facebook Effect,data/covers/0000484.jpg
+484,Greg Harvey,Excel 2007 For Dummies,data/covers/0000485.jpg
+485,Max Kuhn,Applied Predictive Modeling,data/covers/0000486.jpg
+486,Andy McVittie,Art of Assassin's Creed IV,data/covers/0000487.jpg
+487,Richard Banfield,Product Leadership,data/covers/0000488.jpg
+488,Ronald L. Graham,Concrete Mathematics,data/covers/0000489.jpg
+489,Pavel Yosifovich,"Windows Internals, Part 1",data/covers/0000490.jpg
+490,Dana Thomas,Deluxe,data/covers/0000491.jpg
+491,Sebastian Raschka,Python Machine Learning,data/covers/0000492.jpg
+492,Melanie Swan,Blockchain,data/covers/0000493.jpg
+493,Andreas Antonopoulos,Mastering Ethereum,data/covers/0000494.jpg
+494,Mike Chapple,"(ISC)2 CISSP Certified Information Systems Security Professional Official Study Guide, 8e & CISSP Official (ISC)2 Practice Tests, 2e",data/covers/0000495.jpg
+495,Toby Walsh,2062: The World that AI Made,data/covers/0000496.jpg
+496,Martin Odersky,"Programming in Scala, 3rd Edition",data/covers/0000497.jpg
+497,Kelsey Hightower,Kubernetes - Up and Running,data/covers/0000498.jpg
+498,Garry Kasparov,Deep Thinking,data/covers/0000499.jpg
+499,TJ O'Connor,Violent Python,data/covers/0000500.jpg
+500,Paul Barry,Head First Python 2e,data/covers/0000501.jpg
+501,Nick Townsend,The Sure Thing,data/covers/0000502.jpg
+502,Zack Zombie Books,Ultimate Minecraft Secrets,data/covers/0000503.jpg
+503,Neil Postman,Technopoly,data/covers/0000504.jpg
+504,Sunil Gupta,Driving Digital Strategy,data/covers/0000505.jpg
+505,Kieran Healy,Data Visualization,data/covers/0000506.jpg
+506,Martin Evening,Adobe Photoshop CS6 for Photographers,data/covers/0000507.jpg
+507,Martin Evening,Adobe Photoshop CS6 for Photographers,data/covers/0000508.jpg
+508,Joseph Albahari,C# 7.0 in a Nutshell,data/covers/0000509.jpg
+509,Sandi Metz,Practical Object-Oriented Design in Ruby,data/covers/0000510.jpg
+510,Eric Enge,The Art of SEO 3e,data/covers/0000511.jpg
+511,Bradley J. Sugars,Instant Systems,data/covers/0000512.jpg
+512,John Walkenbach,Excel 2010 Power Programming with VBA,data/covers/0000513.jpg
+513,David Dufty,Losing the Head of Philip K. Dick,data/covers/0000514.jpg
+514,Sandra Rendgen,Information Graphics,data/covers/0000515.jpg
+515,Andy McVittie,The Art of Assassin's Creed III,data/covers/0000516.jpg
+516,Marc Stickdorn,This Is Service Design Methods,data/covers/0000517.jpg
+517,Dama International,DAMA-DMBOK,data/covers/0000518.jpg
+518,Giovanna Fletcher,"Happy Mum, Happy Baby",data/covers/0000519.jpg
+519,37signals,"Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application",data/covers/0000520.jpg
+520,Douglas Coupland,The Age of Earthquakes,data/covers/0000521.jpg
+521,Paul Davies,"Awakening , The Art of Halo 4",data/covers/0000522.jpg
+522,Scott Kelby,"The Digital Photography Book, Part 5",data/covers/0000523.jpg
+523,Greg Harvey,Excel 2019 For Dummies,data/covers/0000524.jpg
+524,Harvard Business Review,HBR Guide to Data Analytics Basics for Managers (HBR Guide Series),data/covers/0000525.jpg
+525,Mike Rohde,The Sketchnote Workbook,data/covers/0000526.jpg
+526,John R. Pierce,"An Introduction to Information Theory, Symbols, Signals and Noise",data/covers/0000527.jpg
+527,Dustyn Roberts,"Making Things Move DIY Mechanisms for Inventors, Hobbyists, and Artists",data/covers/0000528.jpg
+528,Brian Wood,Adobe Illustrator CC Classroom in a Book,data/covers/0000529.jpg
+529,Steve Klabnik,The Rust Programming Language,data/covers/0000530.jpg
+530,Ray Kurzweil,How to Create a Mind,data/covers/0000531.jpg
+531,Tom Ang,Photography,data/covers/0000532.jpg
+532,Marina Umaschi Bers,The Official Scratch Jr. Book,data/covers/0000533.jpg
+533,J.R. McNeil,The Human Web,data/covers/0000534.jpg
+534,Steve Wozniak,iWoz,data/covers/0000535.jpg
+535,Michael Dawson,Beginning C++ Through Game Programming,data/covers/0000536.jpg
+536,Chad Fowler,The Passionate Programmer,data/covers/0000537.jpg
+537,K. A. Stroud,Engineering Mathematics,data/covers/0000538.jpg
+538,Bitmap Books,The Art of Point-and-Click Adventure Games,data/covers/0000539.jpg
+539,Michael Alexander,Excel 2019 Bible,data/covers/0000540.jpg
+540,Neale Blackwood,Advanced Excel Reporting for Management Accountants,data/covers/0000541.jpg
+541,Peter Pauper Press,Internet Address Password Log Red,data/covers/0000542.jpg
+542,P W Singer,LikeWar,data/covers/0000543.jpg
+543,Mark Justice Hinton,Windows 7 For Seniors For Dummies,data/covers/0000544.jpg
+544,Alex Mustard,Underwater Photography Masterclass,data/covers/0000545.jpg
+545,Ellen Notbohm,Ten Things Your Student with Autism Wishes You Knew,data/covers/0000546.jpg
+546,Square Enix,Final Fantasy Ultimania Archive Volume 2,data/covers/0000547.jpg
+547,Bill Moggridge,Designing Interactions,data/covers/0000548.jpg
+548,Katie Salen Tekinbas,Rules of Play,data/covers/0000549.jpg
+549,Kyle Loudon,C++ Pocket Reference,data/covers/0000550.jpg
+550,Scott Millett,"Patterns, Principles, and Practices of Domain-Driven Design",data/covers/0000551.jpg
+551,Perry Marshall,Ultimate Guide to Facebook Advertising,data/covers/0000552.jpg
+552,Arvind Narayanan,Bitcoin and Cryptocurrency Technologies,data/covers/0000553.jpg
+553,Tim Wu,The Attention Merchants,data/covers/0000554.jpg
+554,Cory Huff,How to Sell Your Art Online,data/covers/0000555.jpg
+555,Alan Beaulieu,Learning SQL,data/covers/0000556.jpg
+556,Square Enix,Final Fantasy Ultimania Archive Volume 3,data/covers/0000557.jpg
+557,H. James Wilson,Human + Machine,data/covers/0000558.jpg
+558,N. Katherine Hayles,How We Became Posthuman,data/covers/0000559.jpg
+559,Steven Bird,Natural Language Processing with Python,data/covers/0000560.jpg
+560,Bruce Schneier,Liars and Outliers,data/covers/0000561.jpg
+561,S. Enox,Final Fantasy Ultimania Archive Volume 1,data/covers/0000562.jpg
+562,Ben Clark,Blue Team Field Manual (BTFM),data/covers/0000563.jpg
+563,Bioware,The Art Of Mass Effect: Andromeda,data/covers/0000564.jpg
+564,Cem Kaner,Lessons Learned in Software Testing,data/covers/0000565.jpg
+565,Peter Kim,The Hacker Playbook 3,data/covers/0000566.jpg
+566,Jason R. Rich,Hacks for Fortniters,data/covers/0000567.jpg
+567,Kate Lewis,The Art of Assassin's Creed Odyssey,data/covers/0000568.jpg
+568,Dorothy Graham,Foundations of Software Testing ISTQB Certification,data/covers/0000569.jpg
+569,Jeremy Heimans,New Power,data/covers/0000570.jpg
+570,Bjarne Stroustrup,A Tour of C++,data/covers/0000571.jpg
+571,Lora Delwiche,The Little SAS Book,data/covers/0000572.jpg
+572,Russell Miles,Learning UML 2.0,data/covers/0000573.jpg
+573,Cal Newport,Digital Minimalism,data/covers/0000574.jpg
+574,Peter Christian,The Genealogist's Internet,data/covers/0000575.jpg
+575,Jeff Van West,Microsoft Flight Simulator X For Pilots,data/covers/0000576.jpg
+576,Howard Podeswa,The Business Analyst's Handbook,data/covers/0000577.jpg
+577,Jeffrey E.F. Friedl,Mastering Regular Expressions,data/covers/0000578.jpg
+578,Niels Ferguson,Cryptography Engineering,data/covers/0000579.jpg
+579,Alexis van Hurkman,Color Correction Handbook,data/covers/0000580.jpg
+580,Chris Anley,The Shellcoder's Handbook,data/covers/0000581.jpg
+581,Paul Davies,The Art of Assassin's Creed Origins,data/covers/0000582.jpg
+582,Bruce Eckel,Thinking in Java,data/covers/0000583.jpg
+583,Bruce Schneier,Click Here to Kill Everybody,data/covers/0000584.jpg
+584,Robert C. Martin,"Agile Principles, Patterns, and Practices in C#",data/covers/0000585.jpg
+585,Clay Shirky,Here Comes Everybody,data/covers/0000586.jpg
+586,Wendell Berry,Why I Am Not Going to Buy a Computer,data/covers/0000587.jpg
+587,Jim Blandy,Programming Rust,data/covers/0000588.jpg
+588,Nintendo USA,The Art Of Splatoon,data/covers/0000589.jpg
+589,Don Murdoch Gse,Blue Team Handbook,data/covers/0000590.jpg
+590,Derek Breen,Scratch For Kids For Dummies,data/covers/0000591.jpg
+591,Bryan F. Petersen,"Learning To See Creatively, Third Edition",data/covers/0000592.jpg
+592,Louis Rosenfeld,"Information Architecture, 4e",data/covers/0000593.jpg
+593,Bethesda Softworks,The Elder Scrolls V - The Skyrim Library,data/covers/0000594.jpg
+594,Golden Krishna,The Best Interface Is No Interface,data/covers/0000595.jpg
+595,Kristin Cullen,Layout Workbook,data/covers/0000596.jpg
+596,Andy Rathbone,Windows 10 For Dummies,data/covers/0000597.jpg
+597,Andy Rathbone,Windows 7 For Dummies,data/covers/0000598.jpg
+598,Blizzard Entertainment,Diablo Bestiary,data/covers/0000599.jpg
+599,Great Britain: Cabinet Office,ITIL service lifecycle publication suite [print],data/covers/0000600.jpg
+600,John Brockman,Possible Minds,data/covers/0000601.jpg
+601,Tom White,Hadoop - The Definitive Guide 4e,data/covers/0000602.jpg
+602,Andy Rathbone,Windows 8 For Dummies,data/covers/0000603.jpg
+603,Naughty Dog Studios,The Art Of Uncharted 4: A Thief's End,data/covers/0000604.jpg
+604,Adobe Creative Team,Adobe InDesign CS5 Classroom in a Book,data/covers/0000605.jpg
+605,Shin Takahashi,The Manga Guide To Statistics,data/covers/0000606.jpg
+606,Greg Rucka,Dragon Age: Magekiller,data/covers/0000607.jpg
+607,Brittany Hennessy,Influencer,data/covers/0000608.jpg
+608,Alberto Ferrari,The Definitive Guide to DAX,data/covers/0000609.jpg
+609,Evan Amos,The Game Console,data/covers/0000610.jpg
+610,Bernard Marr,Data Strategy,data/covers/0000611.jpg
+611,Melissa Perri,Escaping the Build Trap,data/covers/0000612.jpg
+612,Neal Ford,Building Evolutionary Architectures,data/covers/0000613.jpg
+613,David Watson,Cambridge IGCSE Computer Science Workbook,data/covers/0000614.jpg
+614,Scott Belsky,The Messy Middle,data/covers/0000615.jpg
+615,Geoff Watts,Scrum Mastery,data/covers/0000616.jpg
+616,William Powers,Hamlet's Blackberry,data/covers/0000617.jpg
+617,Hartmut Bohnacker,Generative Design,data/covers/0000618.jpg
+618,Robert I. Kabacoff,R in Action,data/covers/0000619.jpg
+619,Luciano Floridi,Information: A Very Short Introduction,data/covers/0000620.jpg
+620,Kevin Poulsen,Kingpin,data/covers/0000621.jpg
+621,Martin Robinson,Halo: The Great Journey,data/covers/0000622.jpg
+622,Nick Vandome,Windows 10 in easy steps,data/covers/0000623.jpg
+623,Ken Kocienda,Creative Selection,data/covers/0000624.jpg
+624,Terry Griffin,The Art Of Lego Mindstorms Ev3 Programming,data/covers/0000625.jpg
+625,Kevin R. Fall,"TCP/IP Illustrated, Volume 1",data/covers/0000626.jpg
+626,Chris Solarski,Drawing Basics And Video Game Art,data/covers/0000627.jpg
+627,Bruce Schneier,Data and Goliath,data/covers/0000628.jpg
+628,Sarah Hyndman,Why Fonts Matter,data/covers/0000629.jpg
+629,Darrell Young,Mastering the Olympus OM-D E-M5 Mark II,data/covers/0000630.jpg
+630,Cal Newport,Digital Minimalism,data/covers/0000631.jpg
+631,James Cadle,Business Analysis Techniques,data/covers/0000632.jpg
+632,Andrew Faulkner,Adobe Photoshop CC Classroom in a Book (2018 release),data/covers/0000633.jpg
+633,Daniil Maslyuk,Exam Ref 70-778 Analyzing and Visualizing Data by Using Microsoft Power BI,data/covers/0000634.jpg
+634,David Beazley,Python Essential Reference,data/covers/0000635.jpg
+635,Bethesda Softworks,The Elder Scrolls V - The Skyrim Library,data/covers/0000636.jpg
+636,Wendell Odom,CCNA Routing and Switching ICND2 200-105 Official Cert Guide,data/covers/0000637.jpg
+637,Sean McManus,Scratch Programming in Easy Steps,data/covers/0000638.jpg
+638,Omar Santos,CCNA Security 210-260 Official Cert Guide,data/covers/0000639.jpg
+639,Future Press,The Last Guardian: An Extraordinary Story,data/covers/0000640.jpg
+640,Tom Bancroft,Character Mentor,data/covers/0000641.jpg
+641,Herbert Schildt,"Java: A Beginner's Guide, Eighth Edition",data/covers/0000642.jpg
+642,Bill Buxton,Sketching User Experiences: The Workbook,data/covers/0000643.jpg
+643,David Flanagan,The Ruby Programming Language,data/covers/0000644.jpg
+644,Benjamin H. Bratton,The Stack,data/covers/0000645.jpg
+645,CD Projekt Red,The Witcher Adult Coloring Book,data/covers/0000646.jpg
+646,Giovanna Fletcher,"Happy Mum, Happy Baby",data/covers/0000647.jpg
+647,Jamie Chan,Learn C# in One Day and Learn It Well,data/covers/0000648.jpg
+648,Jon Agar,Turing and the Universal Machine (Icon Science),data/covers/0000649.jpg
+649,Prypto,Bitcoin For Dummies,data/covers/0000650.jpg
+650,Martin Ford,Architects of Intelligence,data/covers/0000651.jpg
+651,Roy Osherove,The Art of Unit Testing,data/covers/0000652.jpg
+652,Ray Kurzweil,The Age of Spiritual Machines: When Computers Exceed Human Intelligence,data/covers/0000653.jpg
+653,Bruce S. Silver,"BPMN Method and Style, 2nd Edition, with BPMN Implementer's Guide",data/covers/0000654.jpg
+654,Evgeny Morozov,"To Save Everything, Click Here",data/covers/0000655.jpg
+655,Peter Kim,The Hacker Playbook,data/covers/0000656.jpg
+656,Naomi Berry,The Definitive Guide to Fortnite 2020,data/covers/0000657.jpg
+657,Daniele Benedettelli,The Lego Boost Activity Book,data/covers/0000658.jpg
+658,Bruce A. Tate,Seven Languages in Seven Weeks,data/covers/0000659.jpg
+659,Lea Verou,CSS Secrets,data/covers/0000660.jpg
+660,Craig Larman,Applying UML and Patterns,data/covers/0000661.jpg
+661,Craig Zacker,Installing and Configuring Windows Server (R) 2012 R2,data/covers/0000662.jpg
+662,Greg Keyes,The Infernal City,data/covers/0000663.jpg
+663,Brett D. McLaughlin,Head First Objects-Oriented Analysis and Design,data/covers/0000664.jpg
+664,Vaughn Vernon,Domain-Driven Design Distilled,data/covers/0000665.jpg
+665,Tony Stubblebine,Regular Expression Pocket Reference,data/covers/0000666.jpg
+666,Scott Wlaschin,Domain Modeling Made Functional,data/covers/0000667.jpg
+667,Seymour Papert,Mindstorms,data/covers/0000668.jpg
+668,Bruce Barnbaum,The Essence of Photography,data/covers/0000669.jpg
+669,Jean-Philippe Aumasson,Serious Cryptography,data/covers/0000670.jpg
+670,Seth Stephens-davidowitz,Everybody Lies,data/covers/0000671.jpg
+671,Devin Hunter,Clash At Fatal Fields,data/covers/0000672.jpg
+672,Harvard Business Review,"HBR's 10 Must Reads on Teams (with featured article ""The Discipline of Teams,"" by Jon R. Katzenbach and Douglas K. Smith)",data/covers/0000673.jpg
+673,David Watson,Cambridge IGCSE Computer Science Study and Revision Guide,data/covers/0000674.jpg
+674,Ben Clark,RTFM,data/covers/0000675.jpg
+675,Fred Kaplan,Dark Territory,data/covers/0000676.jpg
+676,Gojko Adzic,Specification by Example,data/covers/0000677.jpg
+677,Bruce Dang,Practical Reverse Engineering,data/covers/0000678.jpg
+678,Kevin Wallace,CCNP Routing and Switching ROUTE 300-101 Official Cert Guide,data/covers/0000679.jpg
+679,Minecraft Books,Minecraft,data/covers/0000680.jpg
+680,Future Press,Ni no Kuni II: Revenant Kingdom Collector's Edition Guide,data/covers/0000681.jpg
+681,Dmitry Jemerov,Kotlin in Action,data/covers/0000682.jpg
+682,Julie Adair King,Nikon D90 For Dummies,data/covers/0000683.jpg
+683,Eli Pariser,The Filter Bubble,data/covers/0000684.jpg
+684,Jeremy Narby,Intelligence in Nature,data/covers/0000685.jpg
+685,Janice (Ginny) Redish,Letting Go of the Words,data/covers/0000686.jpg
+686,Natasha Courtenay-Smith,The Million Dollar Blog,data/covers/0000687.jpg
+687,Kim Goodwin,Designing for the Digital Age,data/covers/0000688.jpg
+688,Mana Takahashi,The Manga Guide To Databases,data/covers/0000689.jpg
+689,Brad Williams,Professional WordPress,data/covers/0000690.jpg
+690,Rand Fishkin,Lost and Founder,data/covers/0000691.jpg
+691,Sony,The Art Of Ratchet & Clank,data/covers/0000692.jpg
+692,Sharon Lawner Weinberg,Statistics Using Stata,data/covers/0000693.jpg
+693,Wayne Winston,Microsoft Excel Data Analysis and Business Modeling,data/covers/0000694.jpg
+694,Daniel P. Friedman,The Little Schemer,data/covers/0000695.jpg
+695,Scott Kelby,How Do I Do That in Photoshop?,data/covers/0000696.jpg
+696,Kirill Eremenko,Confident Data Skills,data/covers/0000697.jpg
+697,Mark C. Layton,Agile Project Management For Dummies,data/covers/0000698.jpg
+698,Anthony Molinaro,SQL Cookbook,data/covers/0000699.jpg
+699,Will Kurt,Bayesian Statistics The Fun Way,data/covers/0000700.jpg
+700,Andrew McAfee,"Machine, Platform, Crowd",data/covers/0000701.jpg
+701,David J. C. MacKay,"Information Theory, Inference and Learning Algorithms",data/covers/0000702.jpg
+702,A. K. Dewdney,New Turing Omnibus,data/covers/0000703.jpg
+703,Keith McCormick,SPSS Statistics for Dummies,data/covers/0000704.jpg
+704,John D. Kelleher,Data Science,data/covers/0000705.jpg
+705,DK,How Technology Works,data/covers/0000706.jpg
+706,Scott Kelby,"Scott Kelby's Digital Photography Boxed Set, Parts 1, 2, 3, 4, and 5",data/covers/0000707.jpg
+707,Cathy O'Neill,Doing Data Science,data/covers/0000708.jpg
+708,Norbert Wiener,Cybernetics,data/covers/0000709.jpg
+709,Robin Nixon,"Learning PHP, MySQL & JavaScript 5e",data/covers/0000710.jpg
+710,Jaron Lanier,Ten Arguments For Deleting Your Social Media Accounts Right Now,data/covers/0000711.jpg
+711,Judea Pearl,Causality,data/covers/0000712.jpg
+712,Andrei Alexandrescu,Modern C++ Design,data/covers/0000713.jpg
+713,Alexander S White,Photographer's Guide to the Nikon Coolpix P900,data/covers/0000714.jpg
+714,Lawrence Corr,Agile Data Warehouse Design,data/covers/0000715.jpg
+715,John Paul Mueller,Machine Learning For Dummies,data/covers/0000716.jpg
+716,Chelsea Monroe-cassel,The Elder Scrolls: The Official Cookbook,data/covers/0000717.jpg
+717,Glenn Greenwald,No Place to Hide,data/covers/0000718.jpg
+718,Ross J. Anderson,Security Engineering,data/covers/0000719.jpg
+719,Nicole Fenton,Nicely Said,data/covers/0000720.jpg
+720,Suzanne Robertson,Mastering the Requirements Process,data/covers/0000721.jpg
+721,Natalie Rusk,Scratch Coding Cards,data/covers/0000722.jpg
+722,Brian Sargent,Cambridge IGCSE ICT 2nd Edition,data/covers/0000723.jpg
+723,William Poundstone,Prisoner's Dilemma,data/covers/0000724.jpg
+724,DK,World of Warcraft Ultimate Visual Guide,data/covers/0000725.jpg
+725,brendan Kane,One Million Followers,data/covers/0000726.jpg
+726,Michael Price,Windows 10 for Seniors in Easy Steps,data/covers/0000727.jpg
+727,Drew Neil,"Practical Vim, 2e",data/covers/0000728.jpg
+728,Dean Leffingwell,Agile Software Requirements,data/covers/0000729.jpg
+729,Erik Brynjolfsson,Race Against the Machine,data/covers/0000730.jpg
+730,J Clark Scott,But How Do It Know?,data/covers/0000731.jpg
+731,3dtotal Publishing,Beginner's Guide to Digital Painting in Photoshop,data/covers/0000732.jpg
+732,Linda Sunshine,Art of How To Train Your Dragon 2,data/covers/0000733.jpg
+733,Mat Buckland,Programming Game AI By Example,data/covers/0000734.jpg
+734,Jon Duckett,"Web Design with HTML, CSS, JavaScript and jQuery Set",data/covers/0000735.jpg
+735,Nicholas Carr,The Shallows,data/covers/0000736.jpg
+736,Scott Kelby,Professional Portrait Retouching Techniques for Photographers Using Photoshop,data/covers/0000737.jpg
+737,Adam Alter,Irresistible,data/covers/0000738.jpg
+738,Andreas Deja,"The Nine Old Men: Lessons, Techniques, and Inspiration from Disney's Great Animators",data/covers/0000739.jpg
+739,Bill Lubanovic,Introducing Python,data/covers/0000740.jpg
+740,Safiya Umoja Noble,Algorithms of Oppression,data/covers/0000741.jpg
+741,Peter Leigh,"The Nostalgia Nerd's Retro Tech: Computer, Consoles & Games",data/covers/0000742.jpg
+742,Stephen Foster,Minecraft Modding For Kids For Dummies,data/covers/0000743.jpg
+743,Lawrence A. Cunningham,Quality Investing,data/covers/0000744.jpg
+744,Michael E. Gerber,The E-Myth Contractor,data/covers/0000745.jpg
+745,William Panek,MCSA Windows Server 2012 R2 Complete Study Guide,data/covers/0000746.jpg
+746,Michael Jang,"RHCSA/RHCE Red Hat Linux Certification Study Guide, Seventh Edition (Exams EX200 & EX300)",data/covers/0000747.jpg
+747,Aimee Andrion,Python for Everybody,data/covers/0000748.jpg
+748,Jennifer Greene,Head First C#,data/covers/0000749.jpg
+749,Nicholas C. Zakas,Professional JavaScript for Web Developers,data/covers/0000750.jpg
+750,Michael Alexander,Excel VBA Programming For Dummies,data/covers/0000751.jpg
+751,Rachel Devine,Beyond Snapshots,data/covers/0000752.jpg
+752,John Boxall,Arduino Workshop,data/covers/0000753.jpg
+753,Tessa Barton,InstaStyle,data/covers/0000754.jpg
+754,Jonathan Gennick,SQL Pocket Guide,data/covers/0000755.jpg
+755,Abby Covert,How to Make Sense of Any Mess,data/covers/0000756.jpg
+756,Tsung-hsien Lee,Elements of Programming Interviews in Python,data/covers/0000757.jpg
+757,Rick Delorme,Programming in HTML5 with JavaScript and CSS3,data/covers/0000758.jpg
+758,Gordon Lyon,Nmap Network Scanning,data/covers/0000759.jpg
+759,Jenifer Tidwell,Designing Interfaces,data/covers/0000760.jpg
+760,Randy Krum,Cool Infographics,data/covers/0000761.jpg
+761,Andy Rathbone,Windows 10 For Dummies,data/covers/0000762.jpg
+762,Alex Bradbury,Learning Python with Raspberry Pi,data/covers/0000763.jpg
+763,Nancy C. Muir,iPad 2 For Seniors For Dummies,data/covers/0000764.jpg
+764,Peter Prinz,C Pocket Reference,data/covers/0000765.jpg
+765,Gary D Chapman,Growing Up Social,data/covers/0000766.jpg
+766,Prima Games,Super Smash Bros. Ultimate,data/covers/0000767.jpg
+767,Ron White,How Computers Work,data/covers/0000768.jpg
+768,Peter Weverka,Windows 10 For Seniors For Dummies,data/covers/0000769.jpg
+769,Nicolai Josuttis,The C++ Standard Library,data/covers/0000770.jpg
+770,F.Alton Everest,"Master Handbook of Acoustics, Sixth Edition",data/covers/0000771.jpg
+771,Michael Freeman,Fifty Paths to Creative Photography,data/covers/0000772.jpg
+772,Jon Duckett,HTML and CSS,data/covers/0000773.jpg
+773,Bill Chambers,Spark - The Definitive Guide,data/covers/0000774.jpg
+774,Oyvind Nydal Dahl,Electronics For Kids,data/covers/0000775.jpg
+775,Piggyback,Red Dead Redemption 2,data/covers/0000776.jpg
+776,Steven Pinker,The Stuff of Thought,data/covers/0000777.jpg
+777,Joey Korenman,The Freelance Manifesto,data/covers/0000778.jpg
+778,Joshua Kerievsky,Refactoring to Patterns,data/covers/0000779.jpg
+779,Dan Saffer,Designing for Interaction,data/covers/0000780.jpg
+780,John Walkenbach,Excel 2007 VBA Programming For Dummies,data/covers/0000781.jpg
+781,Viktor Mayer-Schonberger,Big Data,data/covers/0000782.jpg
+782,Steve Swink,Game Feel,data/covers/0000783.jpg
+783,Wallace Wang,Beginning Programming All-In-One Desk Reference For Dummies,data/covers/0000784.jpg
+784,Eric Brechner,Agile Project Management with Kanban,data/covers/0000785.jpg
+785,Daniel Shiffman,The Nature of Code,data/covers/0000786.jpg
+786,Jenny Preece,Interaction Design,data/covers/0000787.jpg
+787,Reto Meier,Professional Android 4 Application Development,data/covers/0000788.jpg
+788,Ming Zeng,Smart Business,data/covers/0000789.jpg
+789,Devin Hunter,Battle for Loot Lake,data/covers/0000790.jpg
+790,Elecia White,Making Embedded Systems,data/covers/0000791.jpg
+791,Eric Conrad,Eleventh Hour CISSP (R),data/covers/0000792.jpg
+792,John Walkenbach,Excel 2007 Bible,data/covers/0000793.jpg
+793,Meghan Casey,The Content Strategy Toolkit,data/covers/0000794.jpg
+794,Andrew Faulkner,Adobe Photoshop CC Classroom in a Book (2017 release),data/covers/0000795.jpg
+795,Scott Patterson,Dark Pools,data/covers/0000796.jpg
+796,Camille McCue,Getting Started with Coding,data/covers/0000797.jpg
+797,Scott Aaronson,Quantum Computing since Democritus,data/covers/0000798.jpg
+798,Darrell Young,Mastering the Nikon D7000,data/covers/0000799.jpg
+799,Subrata DasGupta,Computer Science: A Very Short Introduction,data/covers/0000800.jpg
+800,CD Red,Gwent: Art Of The Witcher Card Game,data/covers/0000801.jpg
+801,David J. Barnes,"Objects First with Java: A Practical Introduction Using BlueJ, Global Edition",data/covers/0000802.jpg
+802,Thomas A. Limoncelli,Time Management for System Administrators,data/covers/0000803.jpg
+803,David Vandevoorde,C++ Templates,data/covers/0000804.jpg
+804,Simon Monk,"Programming the Raspberry Pi, Second Edition: Getting Started with Python",data/covers/0000805.jpg
+805,Konami,The Art Of Metal Gear Solid V,data/covers/0000806.jpg
+806,Karl M. Kapp,The Gamification of Learning and Instruction,data/covers/0000807.jpg
+807,Scott Empson,"CCNA Routing and Switching Portable Command Guide (ICND1 100-105, ICND2 200-105, and CCNA 200-125)",data/covers/0000808.jpg
+808,Scott Kelby,The Adobe Photoshop CC Book for Digital Photographers (2017 release),data/covers/0000809.jpg
+809,Michael J. Crawley,The R Book,data/covers/0000810.jpg
+810,Andy McVittie,The Art of Alien Isolation,data/covers/0000811.jpg
+811,Dan S. Kennedy,No B.S. Guide to Direct Response Social Media Marketing,data/covers/0000812.jpg
+812,Paul Vigna,Cryptocurrency,data/covers/0000813.jpg
+813,Jeff LaMarche,Beginning iPhone 3 Development,data/covers/0000814.jpg
+814,Daniel J. Barrett,Linux Pocket Guide 3e,data/covers/0000815.jpg
+815,Alberto Ferrari,Analyzing Data with Power BI and Power Pivot for Excel,data/covers/0000816.jpg
+816,Andy McVittie,"Rise of the Tomb Raider, The Official Art Book",data/covers/0000817.jpg
+817,Bill Jelen,Excel 2016 VBA and Macros (includes Content Update Program),data/covers/0000818.jpg
+818,David Herman,Effective JavaScript,data/covers/0000819.jpg
+819,Prima Games,Super Mario Odyssey,data/covers/0000820.jpg
+820,V. Anton Spraul,Think Like A Programmer,data/covers/0000821.jpg
+821,Kathy Sierra,Badass - Making Users Awesome,data/covers/0000822.jpg
+822,Sandro Mancuso,The Software Craftsman,data/covers/0000823.jpg
+823,Graham Hutton,Programming in Haskell,data/covers/0000824.jpg
+824,Richard E. Williams,The Animator's Survival Kit,data/covers/0000825.jpg
+825,Frank Abagnale,Scam Me If You Can,data/covers/0000826.jpg
+826,Stephen G. Kochan,Programming in C,data/covers/0000827.jpg
+827,Richard Blum,Linux Command Line and Shell Scripting Bible,data/covers/0000828.jpg
+828,Bill Buxton,Sketching User Experiences: Getting the Design Right and the Right Design,data/covers/0000829.jpg
+829,David Kadavy,Design for Hackers,data/covers/0000830.jpg
+830,Derek Molloy,Exploring Raspberry Pi,data/covers/0000831.jpg
+831,saffron barker,Saffron Barker Vs Real Life,data/covers/0000832.jpg
+832,Paul Davies,Shadow of the Tomb Raider The Official Art Book,data/covers/0000833.jpg
+833,Heath Haskins,The Advanced Roblox Coding Book: An Unofficial Guide,data/covers/0000834.jpg
+834,Brock Craft,Arduino Projects For Dummies,data/covers/0000835.jpg
+835,John Miller,Unofficial Minecraft Lab for Kids,data/covers/0000836.jpg
+836,Bryan O'Sullivan,Real World Haskell,data/covers/0000837.jpg
+837,Danah Boyd,It's Complicated,data/covers/0000838.jpg
+838,Eliott J Lilly,The Big Bad World of Concept Art for Video Games,data/covers/0000839.jpg
+839,Rudolf Steiner,The Electronic Doppelganger,data/covers/0000840.jpg
+840,Michael Owen,Shadow of the Tomb Raider,data/covers/0000841.jpg
+841,Tom Gardner,The Motley Fool Investment Guide,data/covers/0000842.jpg
+842,Michael Dawson,Beginning C++ Through Game Programming,data/covers/0000843.jpg
+843,Paul Davies,Marvel's Spider-Man: The Art of the Game,data/covers/0000844.jpg
+844,Jay Conrad Levinson,"Guerrilla Marketing for Social Media: 100+ Weapons to Grow Your Online Influence, Attract Customers, and Drive Profits",data/covers/0000845.jpg
+845,Richard Wentk,Raspberry Pi For Kids For Dummies,data/covers/0000846.jpg
+846,Orin Thomas,Administering Microsoft (R) SQL Server (R) 2012 Databases,data/covers/0000847.jpg
+847,Andrew S. Tanenbaum,Modern Operating Systems: Global Edition,data/covers/0000848.jpg
+848,Margaret A. Boden,Artificial Intelligence: A Very Short Introduction,data/covers/0000849.jpg
+849,Tom Stafford,Mind Hacks,data/covers/0000850.jpg
+850,AXELOS,"Portfolio, programme and project offices",data/covers/0000851.jpg
+851,Ross Hoddinott,Art of Landscape Photography,data/covers/0000852.jpg
+852,Julie Adair King,Canon EOS 60D For Dummies,data/covers/0000853.jpg
+853,Natasha Dow Schull,Addiction by Design,data/covers/0000854.jpg
+854,Mark Myers,A Smarter Way to Learn JavaScript,data/covers/0000855.jpg
+855,Brandon John Larouche,Basic Roblox Lua Programming,data/covers/0000856.jpg
+856,Alistair Cockburn,Writing Effective Use Cases,data/covers/0000857.jpg
+857,Scott Kelby,The Adobe Photoshop Lightroom Classic CC Book for Digital Photographers,data/covers/0000858.jpg
+858,Gunther Verheyen,Scrum,data/covers/0000859.jpg
+859,Julie Adair King,Canon EOS Rebel T3i / 600D For Dummies,data/covers/0000860.jpg
+860,Christopher Negus,Linux Bible,data/covers/0000861.jpg
+861,Chad Mureta,App Empire,data/covers/0000862.jpg
+862,Tom Bissell,Extra Lives,data/covers/0000863.jpg
+863,Nick Vandome,iPad for Seniors in Easy Steps,data/covers/0000864.jpg
+864,Pedro Domingos,The Master Algorithm,data/covers/0000865.jpg
+865,Ethem Alpaydin,Machine Learning,data/covers/0000866.jpg
+866,Robert Brooks,Diablo Bestiary - The Book of Adria,data/covers/0000867.jpg
+867,A. Colin Cameron,Microeconometrics Using Stata,data/covers/0000868.jpg
+868,Richard E. Susskind,The End of Lawyers?,data/covers/0000869.jpg
+869,Justin Seitz,Gray Hat Python,data/covers/0000870.jpg
+870,Garr Reynolds,Presentation Zen Design,data/covers/0000871.jpg
+871,John Robison,Surfing Illustrated,data/covers/0000872.jpg
+872,Tim Seelig,How to Draw Digital Manga and Anime,data/covers/0000873.jpg
+873,Linus Torvalds,Just for Fun,data/covers/0000874.jpg
+874,Mark Geddes,Arduino Project Handbook,data/covers/0000875.jpg
+875,Jeffrey Richter,CLR via C#,data/covers/0000876.jpg
+876,Michael Alexander,Excel Dashboards and Reports,data/covers/0000877.jpg
+877,Katherine Ormerod,Why Social Media is Ruining Your Life,data/covers/0000878.jpg
+878,Sylvia Langfield,Cambridge International AS and A Level Computer Science Coursebook,data/covers/0000879.jpg
+879,Lynn Beighley,Head First SQL,data/covers/0000880.jpg
+880,Martin Robinson,The Art of Castlevania - Lords of Shadow,data/covers/0000881.jpg
+881,David Ulrich,Zen Camera,data/covers/0000882.jpg
+882,Peter Van Der Linden,Expert C Programming,data/covers/0000883.jpg
+883,Luke Welling,PHP and MySQL Web Development,data/covers/0000884.jpg
+884,Gene Zelazny,Say It With Charts: The Executive's Guide to Visual Communication,data/covers/0000885.jpg
+885,Travis Lowdermilk,User-Centered Design,data/covers/0000886.jpg
+886,Brendan Gregg,Systems Performance,data/covers/0000887.jpg
+887,Nick Morgan,Javascript For Kids,data/covers/0000888.jpg
+888,Nintendo,The Legend Of Zelda Encyclopedia Deluxe Edition,data/covers/0000889.jpg
+889,Christopher Hadnagy,Social Engineering,data/covers/0000890.jpg
+890,Derek Yu,Spelunky,data/covers/0000891.jpg
+891,Ramez Elmasri,"Fundamentals of Database Systems, Global Edition",data/covers/0000892.jpg
+892,Stephen Wendel,Designing for Behavior Change,data/covers/0000893.jpg
+893,Rachel Davies,Agile Coaching,data/covers/0000894.jpg
+894,Scott Meyers,Effective STL,data/covers/0000895.jpg
+895,Evgeny Morozov,The Net Delusion,data/covers/0000896.jpg
+896,Edmond Lau,The Effective Engineer,data/covers/0000897.jpg
+897,Shai Shalev-Shwartz,Understanding Machine Learning,data/covers/0000898.jpg
+898,Clay Shirky,Here Comes Everybody,data/covers/0000899.jpg
+899,Carl Benedikt Frey,The Technology Trap,data/covers/0000900.jpg
+900,David Pogue,Mac OS X Snow Leopard: The Missing Manual,data/covers/0000901.jpg
+901,Tiana Laurence,Blockchain For Dummies,data/covers/0000902.jpg
+902,Patrick J. Carnes,In The Shadows Of The Net,data/covers/0000903.jpg
+903,Jennifer Niederst Robbins,Learning Web Design 5e,data/covers/0000904.jpg
+904,Joseph Gilland,"Elemental Magic, Volume I",data/covers/0000905.jpg
+905,Kim Walsh-phillips,Ultimate Guide to Instagram for Business,data/covers/0000906.jpg
+906,Steve S. Skiena,The Algorithm Design Manual,data/covers/0000907.jpg
+907,Alex Moazed,Modern Monopolies,data/covers/0000908.jpg
+908,The Open Group,TOGAF Version 9.1,data/covers/0000909.jpg
+909,Jeanne Boyarsky,OCP: Oracle Certified Professional Java SE 8 Programmer II Study Guide,data/covers/0000910.jpg
+910,Scott Chacon,Pro Git,data/covers/0000911.jpg
+911,Tracy Fullerton,Game Design Workshop,data/covers/0000912.jpg
+912,W. Richard Stevens,Advanced Programming in the UNIX Environment,data/covers/0000913.jpg
+913,DK,DK Workbooks: Computer Coding,data/covers/0000914.jpg
+914,Blizzard Entertainment,The Art of World of Warcraft,data/covers/0000915.jpg
+915,Brendan Scott,Python For Kids For Dummies,data/covers/0000916.jpg
+916,Mike Mattesi,FORCE: Dynamic Life Drawing,data/covers/0000917.jpg
+917,Stephen Sexton,If All the World and Love Were Young,data/covers/0000918.jpg
+918,Betsy Beyer,The Site Reliability Workbook,data/covers/0000919.jpg
+919,Ray Kurzweil,The Singularity Is Near,data/covers/0000920.jpg
+920,Peter Weverka,Office 2016 All-In-One For Dummies,data/covers/0000921.jpg
+921,Adam Greenfield,Radical Technologies,data/covers/0000922.jpg
+922,Jonathan Oxer,Practical Arduino,data/covers/0000923.jpg
+923,Misha Glenny,DarkMarket,data/covers/0000924.jpg
+924,Jeremy Kubica,Computational Fairy Tales,data/covers/0000925.jpg
+925,Look at This Book,Internet Password Logbook,data/covers/0000926.jpg
+926,Al Sweigart,"Invent Your Own Computer Games With Python, 4e",data/covers/0000927.jpg
+927,Piggyback,Metal Gear Solid V: The Phantom Pain,data/covers/0000928.jpg
+928,Kief Morris,Infrastructure as Code,data/covers/0000929.jpg
+929,Brian Krebs,Spam Nation,data/covers/0000930.jpg
+930,Emrah Yayici,Business Analysis Methodology Book,data/covers/0000931.jpg
+931,Adam Vardy,Python Programming for Beginners,data/covers/0000932.jpg
+932,Manul Laphroaig,Poc || Gtfo,data/covers/0000933.jpg
+933,Luke Jones,Square Eyes,data/covers/0000934.jpg
+934,Tristan Donovan,Replay: the History of Video Games,data/covers/0000935.jpg
+935,Andrew Faulkner,Adobe Photoshop CC Classroom in a Book (2015 release),data/covers/0000936.jpg
+936,Karen Paik,The Art of Incredibles 2,data/covers/0000937.jpg
+937,AXELOS,ITIL Practitioner Guidance,data/covers/0000938.jpg
+938,Julie Adair King,Nikon D3400 For Dummies,data/covers/0000939.jpg
+939,Paul Gries,Practical Programming,data/covers/0000940.jpg
+940,Mike Chapple,(ISC)2 CISSP Certified Information Systems Security Professional Official Study Guide,data/covers/0000941.jpg
+941,Christopher James,The Book of Alternative Photographic Processes,data/covers/0000942.jpg
+942,Jim Highsmith,Agile Project Management,data/covers/0000943.jpg
+943,Pramodkumar J. Sadalage,NoSQL Distilled,data/covers/0000944.jpg
+944,Mary Aiken,The Cyber Effect,data/covers/0000945.jpg
+945,Stephen Boyd,Convex Optimization,data/covers/0000946.jpg
+946,Chris Pine,Learn To Program,data/covers/0000947.jpg
+947,Russ Olsen,Eloquent Ruby,data/covers/0000948.jpg
+948,Mike Smart,Learn Excel 2007 Expert Skills with the Smart Method,data/covers/0000949.jpg
+949,Anthony Williams,"C++ Concurrency in Action,2E",data/covers/0000950.jpg
+950,Steve McConnell,Software Estimation,data/covers/0000951.jpg
+951,Stuart McClure,Hacking Exposed 7,data/covers/0000952.jpg
+952,Fritjof Capra,The Systems View of Life,data/covers/0000953.jpg
+953,Peter Merholz,Org Design for Design Orgs,data/covers/0000954.jpg
+954,Mike Smart,Learn Excel 2007 Essential Skills with the Smart Method,data/covers/0000955.jpg
+955,Tom Ang,Digital Photography Step by Step,data/covers/0000956.jpg
+956,Paul Davies,Tales from the Sea of Thieves,data/covers/0000957.jpg
+957,Robert Faludi,Building Wireless Sensor Networks,data/covers/0000958.jpg
+958,Eliane Kurbegov,Practice Makes Perfect: Intermediate French Grammar,data/covers/0000959.jpg
+959,Douglas Rushkoff,Program or be Programmed,data/covers/0000960.jpg
+960,Andy Rathbone,Windows 8.1 for Dummies Book+dvd Bundle,data/covers/0000961.jpg
+961,James Paul Gee,What Video Games Have to Teach Us About Learning and Literacy,data/covers/0000962.jpg
+962,Peter Dalgaard,Introductory Statistics with R,data/covers/0000963.jpg
+963,James A. Whittaker,How Google Tests Software,data/covers/0000964.jpg
+964,Richard A. Clarke,Cyber War,data/covers/0000965.jpg
+965,Ann Dobson,"Touch Typing In Ten Hours, 3rd Edition",data/covers/0000966.jpg
+966,David Pogue,Mac OS X Leopard: The Missing Manual,data/covers/0000967.jpg
+967,Benjamin C. Pierce,Types and Programming Languages,data/covers/0000968.jpg
+968,Adam Greenfield,Radical Technologies,data/covers/0000969.jpg
+969,Craig Larman,Large-Scale Scrum,data/covers/0000970.jpg
+970,Paul Wilmott,Machine Learning,data/covers/0000971.jpg
+971,Ken Puls,M Is for (Data) Monkey,data/covers/0000972.jpg
+972,Dylan Evans,Emotion: A Very Short Introduction,data/covers/0000973.jpg
+973,Michael Harris,The End of Absence,data/covers/0000974.jpg
+974,Ellen Broad,Made by Humans,data/covers/0000975.jpg
+975,Instaread Summaries,Summary of Extreme Ownership,data/covers/0000976.jpg
+976,Manuel Castells,The Rise of the Network Society,data/covers/0000977.jpg
+977,Josh Lockhart,Modern PHP,data/covers/0000978.jpg
+978,Stuart Ashen,Terrible Old Games You've Probably Never Heard Of,data/covers/0000979.jpg
+979,Chris Bernhardt,Quantum Computing for Everyone,data/covers/0000980.jpg
+980,Mark Cheverton,Destruction of the Overworld,data/covers/0000981.jpg
+981,Bruce Schneier,Applied Cryptography,data/covers/0000982.jpg
+982,Adam Gordon,Official (ISC)2 Guide to the CISSP CBK,data/covers/0000983.jpg
+983,Mark Pilgrim,HTML5: Up and Running,data/covers/0000984.jpg
+984,Kuldeep Singh,Engineering Mathematics Through Applications,data/covers/0000985.jpg
+985,David W Tollen,The Tech Contracts Handbook,data/covers/0000986.jpg
+986,Blythe Roberson,How to Date Men When You Hate Men,data/covers/0000987.jpg
